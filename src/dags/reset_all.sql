@@ -1,0 +1,13 @@
+--truncate table stg.bonussystem_events;
+--truncate table stg.bonussystem_ranks;
+--truncate table stg.bonussystem_users;
+--truncate table stg.ordersystem_orders;
+--truncate table stg.ordersystem_users;
+--truncate table stg.ordersystem_restaurants;
+--truncate table stg.srv_wf_settings;
+--
+--truncate table dds.dm_orders CASCADE;
+--truncate table dds.dm_products CASCADE;
+--truncate table dds.dm_restaurants CASCADE;
+--truncate table dds.dm_timestamps CASCADE;
+--truncate table dds.dm_users CASCADE;
